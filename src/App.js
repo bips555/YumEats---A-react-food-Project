@@ -1,3 +1,4 @@
+import Delivery from "./components/Delivery.js";
 import Featured from "./components/Featured.js";
 import TopNav from "./components/TopNav.js";
 
@@ -7,6 +8,7 @@ function App() {
 <div className="App">
   <TopNav/>
   <Featured/>
+  <Delivery/>
 </div>
    </>
   );
