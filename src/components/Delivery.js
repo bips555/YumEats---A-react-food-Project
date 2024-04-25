@@ -16,7 +16,7 @@ const Delivery = () => {
           <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
             Limitless Convenience on demand
           </h1>
-          <p className="font-bold">
+          <p className="font-bold sm:text-xl md:text-xl">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Consectetur, odio harum temporibus nobis ad accusamus rerum quidem
             neque at maxime sed unde ex deleniti recusandae culpa autem dolores
