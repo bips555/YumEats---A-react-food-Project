@@ -82,7 +82,7 @@ export const topPicks = [
       name: 'Supreme Pizza',
       category: 'pizza',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324455/NetflixApp/Supreme_Pizza_jtvkj8.jpg',
+        'https://res.cloudinary.com/dookqdltx/image/upload/v1711199350/awbvkzjbfainlvcfa42r.jpg',
       price: '$300',
     },
     {

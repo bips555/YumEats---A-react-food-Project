@@ -1,5 +1,6 @@
 import Delivery from "./components/Delivery.js";
 import Featured from "./components/Featured.js";
+import Meal from "./components/Meal.js";
 import TopNav from "./components/TopNav.js";
 import TopPicks from "./components/TopPicks.js";
 
@@ -11,6 +12,7 @@ function App() {
   <Featured/>
   <Delivery/>
   <TopPicks/>
+  <Meal/>
 </div>
    </>
   );
