@@ -6,10 +6,10 @@ import "@splidejs/react-splide/css";
 const TopPicks = () => {
   return (
     <>
-      <h1 className=" hidden lg:block md:block text-orange-500 font-bold text-2xl text-center py-2">
+      <h1 className=" hidden lg:block md:block text-orange-500 font-bold text-2xl text-center ">
         Top Picks
       </h1>
-      <div className="hidden lg:flex md:flex max-w-[1520px] m-auto py-2 px-2">
+      <div className="hidden lg:flex md:flex max-w-[1520px] m-auto py-12 px-2">
         <Splide
           options={{ perPage: 3, gap: "0.5rem", grag: "free", arrows: false }}
         >

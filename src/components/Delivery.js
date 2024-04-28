@@ -2,14 +2,14 @@ import React from "react";
 
 const Delivery = () => {
   return (
-    <div className="w-full bg-white py-16 px-4">
+    <div className="w-full bg-white py-12  px-4">
       <h3 className="text-orange-500 font-bold text-2xl text-center">
         Quick delivery App
       </h3>
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2">
         <img
           className="w-[550px] mx-auto my-4"
-          src="https://res-console.cloudinary.com/dsmm4pvjs/thumbnails/v1/image/upload/v1713972082/ZmFzdC1mb29kLWRlbGl2ZXJ5LW1vdG9yYmlrZV9odGlzbWU=/drilldown"
+          src="https://img.freepik.com/premium-photo/fast-food-delivery-motorbike-icon-isolated-blank-background-3d-style_145713-23331.jpg?w=740"
         />
         <div className="flex flex-col justify-center ">
           <p className="text-[#00d94a] font-bold">Get the App</p>

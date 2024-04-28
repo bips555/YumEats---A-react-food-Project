@@ -5,13 +5,13 @@ import { RxDotFilled } from "react-icons/rx";
 const Featured = () => {
   const sliders = [
     {
-      url: "https://res-console.cloudinary.com/dsmm4pvjs/thumbnails/v1/image/upload/v1711198820/anB5cXRoMjg3bm50aDllendnZ3c=/drilldown",
+      url: "https://assets-global.website-files.com/5acc07fc6634d231ac4bcca6/6320a0603151dde41d816976_one2_best_food_delivery_service.jpeg",
     },
     {
-      url: "https://res-console.cloudinary.com/dsmm4pvjs/thumbnails/v1/image/upload/v1711174785/bWZtdDhvbXdudXJ0aWhxcG4wNm4=/drilldown",
+      url: "https://hometaste.my/wp-content/uploads/2020/11/thekitchen-healthy-4.jpg",
     },
     {
-      url: "https://res-console.cloudinary.com/dsmm4pvjs/thumbnails/v1/image/upload/v1711030725/c2FtcGxlcy9kZXNzZXJ0LW9uLWEtcGxhdGU=/drilldown",
+      url: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?cs=srgb&dl=pexels-chanwalrus-958545.jpg&fm=jpg",
     },
   ];
   const [currentIndex, setCurrentIndex] = useState(0);

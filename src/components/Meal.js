@@ -11,7 +11,7 @@ const Meal = () => {
     );
   };
   return (
-    <div className="max-w-[1520px] m-auto px-4 py-12">
+    <div className="max-w-[1520px] m-auto px-4 py-1">
       <h1 className="text-orange-500 font-bold text-2xl text-center pb-7">
         Our Meal
       </h1>
@@ -48,7 +48,7 @@ const Meal = () => {
       <div className="grid md:grid-cols-3 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {foods.map((item) => {
           return (
-            <div className="border-none hover:scale-105 duration-300">
+            <div key={item.id} className="border-none hover:scale-105 duration-300">
               <img
                 alt={item.name}
                 className="w-full h-[200px] object-cover rounded-lg"
